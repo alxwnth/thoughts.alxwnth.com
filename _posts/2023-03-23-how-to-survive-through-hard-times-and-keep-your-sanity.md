@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "how to survive through hard times and keep your sanity"
-date:   2022-03-23 00:00:00 +0200
+date:   2023-03-23 00:00:00 +0200
 categories: personal
 ---
 
 >You intended to harm me, but God intended it for good to accomplish what is now being done, the saving of many lives.
->*Genesis 50:20*
+<br>Genesis 50:20
 
 If you spend too much time in the past, you will drown in despair and stagnate. If you spend too much time thinking about the future, you will either torment yourself with anxiety or lose your head in the clouds. Yet, living _solely_ in the present limits your ground for decision-making. Looking back in the past allows you to better understand how you have changed, how your motivation for doing things evolved, and what mistakes you've made. It can remind you of your principles and help you apply this understanding to the situation at hand. Looking into the future gives you space to visualize how you want things to be, how they can turn out, and what needs to be done to incarnate this vision. Going back to the present, you combine these insights with any new knowledge you seek to finally solve an issue or make a decision.
 
