@@ -1,19 +1,12 @@
 title: Alex's Thoughts Archive
 author: Alex
 email: me@alxwnth.com
-description: >-
-  I have something to say so I say it.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 kramdown:
   input: GFM
 permalink: pretty
-
-disqus_shortname: 
-
-github: https://github.com/alxwnth
-twitter: http://twitter.com/alxwnth
 
 plugins:
   - jekyll-sitemap
